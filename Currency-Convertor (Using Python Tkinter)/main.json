@@ -1,0 +1,13 @@
+{
+    "Date": "2023-12-06",
+    "from": "INR",
+    "to": "USD",
+    "amount": 45.0,
+    "convert_amount": 0.54
+}{
+    "Date": "2024-01-30",
+    "from": "INR",
+    "to": "USD",
+    "amount": 877.0,
+    "convert_amount": 10.55
+}
